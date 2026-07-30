@@ -1,1 +1,9 @@
-this is a style file for the frontend of the application. It contains CSS rules that define the visual appearance of the user interface, including layout, colors, fonts, and other design elements. The styles in this file are applied to HTML elements to ensure a consistent and visually appealing user experience across different pages and components of the application.
+/* Style file for the frontend of the application */
+/* Contains CSS rules that define the visual appearance of the user interface */
+/* Includes layout, colors, fonts, and other design elements */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
